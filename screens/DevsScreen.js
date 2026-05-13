@@ -22,7 +22,7 @@ const EQUIPE = [
   {
     id: 2,
     nome: 'Andre Bellandi Vital Rodrigues',
-    rm: 'RM: 000002',
+    rm: 'RM: 564662',
     turma: '2TDSPJ',
     cargo: 'Developer',
     foto: null,
@@ -31,7 +31,7 @@ const EQUIPE = [
   {
     id: 3,
     nome: 'Gabriel Garcia Mayo Delatore',
-    rm: 'RM: 000003',
+    rm: 'RM: 562298',
     turma: '2TDSPJ',
     cargo: 'Developer',
     foto: null,
