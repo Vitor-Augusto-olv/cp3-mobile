@@ -15,8 +15,7 @@ const EQUIPE = [
     rm: 'RM: 564227',
     turma: '2TDSPJ',
     cargo: 'Developer',
-    // foto: require('../assets/dev1.jpg'), // descomente e ajuste se tiver foto local
-    foto: null,
+    foto: require('../assets/Vitor.png'), 
     emoji: '👨‍💻',
   },
   {
@@ -25,7 +24,7 @@ const EQUIPE = [
     rm: 'RM: 564662',
     turma: '2TDSPJ',
     cargo: 'Developer',
-    foto: null,
+    foto: require('../assets/Andre.png'), 
     emoji: '👩‍💻',
   },
   {
@@ -34,7 +33,7 @@ const EQUIPE = [
     rm: 'RM: 562298',
     turma: '2TDSPJ',
     cargo: 'Developer',
-    foto: null,
+    foto: require('../assets/Gabriel.png'), 
     emoji: '🧑‍💻',
   },
 ];
